@@ -1,11 +1,11 @@
-Arduino	Pin     Function    Description
-0	2       RXD         UART receive
-1	3       TXD         UART transmit
-4	6       PD2         SW3
-5	7       PD3         SW2
-6	8       PD4         SW1
-9	12      AIN0        Proximity
-10	13      AIN1        Ambient
-11	14      PB2         LED1
-12	15      PB3         LED2
-13	16      PB4         LED3
+Pin     Function    Description
+30      RXD         UART receive
+31      TXD         UART transmit
+25      PC2         SW3
+26      PC3         SW2
+27      PC4         SW1
+24      ADC0        Proximity
+23      ADC1        Ambient
+12      PB0         LED1
+13      PB1         LED2
+14      PB2         LED3
